@@ -11,7 +11,7 @@ This project invovles using several important tools and features of AWS to adjus
 - Trained and deployed an image classification model on Amazon Sagemaker, using the most appropriate instances. 
 - Set up multi-instance training in Sagemaker.
 - Set up Sagemaker notebook to perform training and deployment to endpoint.
-- Set up virtual server in cloud (EC2). Import data and train ML model on EC2
+- Set up virtual server in cloud (EC2) inside a private VPC. Import data and train ML model on EC2
 - Set up a Lambda function to invoke deployed model. 
 - Set up auto-scaling for your deployed endpoint as well as concurrency for Lambda function to ensure latency and throughput.
 - Ensured security of ML pipeline is set up properly by reviewing/assigning approriates IAM roles and policies.
