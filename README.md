@@ -64,7 +64,7 @@ Response
 
 ## Security and Integrity
 
-The security of my AWS project workspace is ensured by only attaching essential permissions/policies to IAM roles, in every case "FullAccess" permission is thoughtfully considered before attching. My IAM dashboard was thoroughly examined to clear out obsolete roles.
+The security and intergrity of my AWS project workspace is ensured by deploying to a private VPC (with configure security group and NACL) and only attaching essential permissions/policies to IAM roles, in every case "FullAccess" permission is thoughtfully considered before attaching. My IAM dashboard was thoroughly examined to clear out obsolete roles.
 
 ![Alt text](<IAM Dashboard-1.png>)
 
