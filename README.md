@@ -1,6 +1,5 @@
 # Project: Operationalizing Machine Learning Project on AWS
 
-A program requirement for AWS Machine Learning Engineer Nanodegree @ Udacity School of Artificial Intelligence
 
 ## Project Description
 
